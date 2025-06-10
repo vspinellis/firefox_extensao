@@ -1,1 +1,12 @@
-
+{
+  "addons": {
+    "{6235fa63-c33b-4978-bde5-d6a90b07eb74}": {
+      "updates": [
+        {
+          "version": "2.1.0",
+          "update_link": "https://raw.githubusercontent.com/vspinellis/extensao_firefox/main/bfd43801c1e241669fc2-1.0.0.xpi"
+        },
+      ]
+    }
+  }
+}
