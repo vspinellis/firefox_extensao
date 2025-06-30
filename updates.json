@@ -24,6 +24,10 @@
         },
         {
           "version": "2.6.0",
+          "update_link": "https://vspinellis.github.io/firefox_extensao/a19863f054724bf1b943-2.6.0.xpi"
+        },
+        {
+          "version": "2.7.0",
           "update_link": "https://vspinellis.github.io/firefox_extensao/sigs_extensao.xpi"
         }
       ]
