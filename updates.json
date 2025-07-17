@@ -41,18 +41,6 @@
         {
           "version": "2.10.0",
           "update_link": "https://vspinellis.github.io/firefox_extensao/a19863f054724bf1b943-2.10.0.xpi"
-        },
-        {
-          "version": "2.11.0",
-          "update_link": "https://vspinellis.github.io/firefox_extensao/a19863f054724bf1b943-2.11.0.xpi"
-        },
-        {
-          "version": "2.12.0",
-          "update_link": "https://vspinellis.github.io/firefox_extensao/a19863f054724bf1b943-2.12.0.xpi"
-        },
-        {
-          "version": "2.13.0",
-          "update_link": "https://vspinellis.github.io/firefox_extensao/sigs_extensao.xpi"
         }
       ]
     }
