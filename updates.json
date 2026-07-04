@@ -3,10 +3,6 @@
     "{1938a969-a517-4952-89ef-a769e871f08f}": {
       "updates": [
         {
-          "version": "2.1.0",
-          "update_link": "https://vspinellis.github.io/firefox_extensao/a19863f054724bf1b943-2.1.0.xpi"
-        },
-        {
           "version": "2.2.0",
           "update_link": "https://vspinellis.github.io/firefox_extensao/a19863f054724bf1b943-2.2.0.xpi"
         },
